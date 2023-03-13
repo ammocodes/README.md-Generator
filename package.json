@@ -1,0 +1,22 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammocodes/README.md-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ammocodes/README.md-Generator/issues"
+  },
+  "homepage": "https://github.com/ammocodes/README.md-Generator#readme"
+}
