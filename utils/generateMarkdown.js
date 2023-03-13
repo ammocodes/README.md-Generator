@@ -1,4 +1,4 @@
-function renderLicenseBadge(license) {
+function renderBadge(license) {
   let badge = "";
 
   if(license != "None") {
@@ -8,7 +8,7 @@ function renderLicenseBadge(license) {
   return badge;
 }
 
-function renderLicenseLink(license) {
+function renderLicense(license) {
   let licenseLink;
   switch(license) {
     case "MIT":
